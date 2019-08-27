@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringWithoutBoot:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringWithoutBoot_war</output-path>
+    <root id="archive" name="SpringWithoutBoot_war.war">
+      <element id="artifact" artifact-name="SpringWithoutBoot:war exploded" />
+    </root>
+  </artifact>
+</component>
